@@ -17,7 +17,7 @@ const projects = [
         description: "Developed a responsive frontend using HTML and CSS for optimal user experience. Built a scalable backend with Spring Boot and Java for managing industrial contacts and company data. Integrated MySQL database with CRUD operations and searching functionalities.",
         techStack: ["HTML", "CSS", "JavaScript", "Java", "Spring Boot", "MySQL"],
         linkedin: "https://www.linkedin.com/in/bhoomika-m-itagi-1647b5329/",
-        github: "https://github.com/Bhoomika006-source/2LG21CS006_BHOOMIKA_M_ITAGI",
+        github: "https://github.com/Bhoomika006-source/Indocontactmanagement",
         demoVideo: "https://www.youtube.com/results?search_query=industrial+contact+management+demo"
     },
     {
@@ -33,34 +33,34 @@ const projects = [
 const conceptVideos = [
     {
         title: "Self Introduction",
-        videoUrl: "https://youtu.be/tLFZrPelbL4"
+        videoUrl: "http://youtu.be/tLFZrPelbL4"
     },
     {
         title: "Platform Independent",
-        videoUrl: "https://youtu.be/KM5b6QW25dA"
+        videoUrl: "http://youtu.be/KM5b6QW25dA"
     }, {
         title: "Object Oerintation",
-        videoUrl: "https://youtu.be/3rOKVLP2FDE"
+        videoUrl: "http://youtu.be/3rOKVLP2FDE"
     },
     {
         title: "Datatype",
-        videoUrl: "https://youtu.be/89mc-maDOHQ"
+        videoUrl: "http://youtu.be/89mc-maDOHQ"
     },
     {
         title: "Variables,Methods,Array",
-        videoUrl: "https://youtu.be/RM2U9Ks6vR4"
+        videoUrl: "http://youtu.be/RM2U9Ks6vR4"
     },
     {
         title: "Spring",
-        videoUrl: "https://youtu.be/AaiG3rSZ0p8"
+        videoUrl: "http://youtu.be/AaiG3rSZ0p8"
     },
     {
         title: "Methods Overloading",
-        videoUrl: "https://youtu.be/o1DjjbOgUo8"
+        videoUrl: "http://youtu.be/o1DjjbOgUo8"
     },
     {
         title: "Encapsulation",
-        videoUrl: "https://youtu.be/P7GLw7w9Bps"
+        videoUrl: "http://youtu.be/P7GLw7w9Bps"
     }
 ];
 
